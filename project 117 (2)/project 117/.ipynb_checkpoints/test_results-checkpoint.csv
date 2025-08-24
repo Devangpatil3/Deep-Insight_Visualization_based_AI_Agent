@@ -1,0 +1,5 @@
+test_case,result,response_time,success,tokens
+Analyze business data structure,Error: API call returned None. Check API call or client configuration.,0.433025598526001,False,0
+Suggest visualizations for revenue analysis,Error: 'AIDataAnalysisAgent' object has no attribute 'suggest_visualizations',1.1682510375976562e-05,False,0
+Suggest visualizations for customer analysis,Error: 'AIDataAnalysisAgent' object has no attribute 'suggest_visualizations',1.0728836059570312e-05,False,0
+Scatter plot showing revenue vs profit with correlation coefficient of 0.85,Error: 'AIDataAnalysisAgent' object has no attribute 'interpret_chart',1.4543533325195312e-05,False,0

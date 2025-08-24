@@ -1,0 +1,31 @@
+=== DATA EXPLORATION SUMMARY ===
+Dataset shape: (9800, 20)
+Numeric columns: 16
+Categorical columns: 4
+Datetime columns: 0
+
+Numeric columns:
+  - Last Price
+  - Change
+  - P Change
+  - Previous Close
+  - Open
+  - Day High
+  - Day Low
+  - Volume
+  - 52W High
+  - 52W Low
+  - Market Cap (Cr)
+  - P/E Ratio
+  - EPS
+  - VWAP
+  - Deliverable Volume
+  - Deliverable %
+
+Categorical columns:
+  - Symbol
+  - Time
+  - Date
+  - Sector
+
+Missing values:

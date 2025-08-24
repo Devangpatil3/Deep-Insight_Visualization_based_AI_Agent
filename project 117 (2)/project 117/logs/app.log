@@ -1,0 +1,48 @@
+2025-06-03 12:24:54,227 - e2b.api - INFO - Request POST https://api.e2b.dev/sandboxes
+2025-06-03 12:24:58,207 - httpx - INFO - HTTP Request: POST https://api.e2b.dev/sandboxes "HTTP/1.1 201 Created"
+2025-06-03 12:24:58,207 - e2b.api - INFO - Response 201
+2025-06-03 12:24:58,557 - e2b.sandbox_sync.main - INFO - Request: POST https://49983-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/files
+2025-06-03 12:24:59,420 - e2b.sandbox_sync.main - INFO - Response: 200 https://49983-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/files
+2025-06-03 12:24:59,421 - httpx - INFO - HTTP Request: POST https://49983-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/files?path=.%2FAdvertising.csv&username=user "HTTP/1.1 200 OK"
+2025-06-03 12:25:07,956 - e2b.sandbox_sync.main - INFO - Request: POST https://49999-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/execute
+2025-06-03 12:25:08,672 - e2b.sandbox_sync.main - INFO - Response: 200 https://49999-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/execute
+2025-06-03 12:25:08,672 - httpx - INFO - HTTP Request: POST https://49999-iovzdu68irvvj4lur1440-9510f9f6.e2b.dev/execute "HTTP/1.1 200 OK"
+2025-06-03 12:25:09,216 - e2b.api - INFO - Request DELETE https://api.e2b.dev/sandboxes/iovzdu68irvvj4lur1440-9510f9f6
+2025-06-03 12:25:09,765 - httpx - INFO - HTTP Request: DELETE https://api.e2b.dev/sandboxes/iovzdu68irvvj4lur1440-9510f9f6 "HTTP/1.1 204 No Content"
+2025-06-03 12:25:09,765 - e2b.api - INFO - Response 204
+2025-06-03 12:25:34,568 - e2b.api - INFO - Request POST https://api.e2b.dev/sandboxes
+2025-06-03 12:25:35,135 - httpx - INFO - HTTP Request: POST https://api.e2b.dev/sandboxes "HTTP/1.1 201 Created"
+2025-06-03 12:25:35,135 - e2b.api - INFO - Response 201
+2025-06-03 12:25:35,481 - e2b.sandbox_sync.main - INFO - Request: POST https://49983-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/files
+2025-06-03 12:25:36,042 - e2b.sandbox_sync.main - INFO - Response: 200 https://49983-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/files
+2025-06-03 12:25:36,043 - httpx - INFO - HTTP Request: POST https://49983-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/files?path=.%2FAdvertising.csv&username=user "HTTP/1.1 200 OK"
+2025-06-03 12:25:44,516 - e2b.sandbox_sync.main - INFO - Request: POST https://49999-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/execute
+2025-06-03 12:25:45,351 - e2b.sandbox_sync.main - INFO - Response: 200 https://49999-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/execute
+2025-06-03 12:25:45,352 - httpx - INFO - HTTP Request: POST https://49999-icvydxy5dqvmqyzc812tv-00b5686a.e2b.dev/execute "HTTP/1.1 200 OK"
+2025-06-03 12:25:45,836 - e2b.api - INFO - Request DELETE https://api.e2b.dev/sandboxes/icvydxy5dqvmqyzc812tv-00b5686a
+2025-06-03 12:25:46,763 - httpx - INFO - HTTP Request: DELETE https://api.e2b.dev/sandboxes/icvydxy5dqvmqyzc812tv-00b5686a "HTTP/1.1 204 No Content"
+2025-06-03 12:25:46,764 - e2b.api - INFO - Response 204
+2025-06-03 12:27:01,263 - e2b.api - INFO - Request POST https://api.e2b.dev/sandboxes
+2025-06-03 12:27:01,741 - httpx - INFO - HTTP Request: POST https://api.e2b.dev/sandboxes "HTTP/1.1 201 Created"
+2025-06-03 12:27:01,741 - e2b.api - INFO - Response 201
+2025-06-03 12:27:02,155 - e2b.sandbox_sync.main - INFO - Request: POST https://49983-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/files
+2025-06-03 12:27:02,626 - e2b.sandbox_sync.main - INFO - Response: 200 https://49983-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/files
+2025-06-03 12:27:02,626 - httpx - INFO - HTTP Request: POST https://49983-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/files?path=.%2FAdvertising.csv&username=user "HTTP/1.1 200 OK"
+2025-06-03 12:27:09,550 - e2b.sandbox_sync.main - INFO - Request: POST https://49999-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/execute
+2025-06-03 12:27:10,105 - e2b.sandbox_sync.main - INFO - Response: 200 https://49999-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/execute
+2025-06-03 12:27:10,106 - httpx - INFO - HTTP Request: POST https://49999-iqy7tps9te9e6iety8be7-bc4536ce.e2b.dev/execute "HTTP/1.1 200 OK"
+2025-06-03 12:27:11,298 - e2b.api - INFO - Request DELETE https://api.e2b.dev/sandboxes/iqy7tps9te9e6iety8be7-bc4536ce
+2025-06-03 12:27:11,755 - httpx - INFO - HTTP Request: DELETE https://api.e2b.dev/sandboxes/iqy7tps9te9e6iety8be7-bc4536ce "HTTP/1.1 204 No Content"
+2025-06-03 12:27:11,755 - e2b.api - INFO - Response 204
+2025-06-03 12:27:33,626 - e2b.api - INFO - Request POST https://api.e2b.dev/sandboxes
+2025-06-03 12:27:34,188 - httpx - INFO - HTTP Request: POST https://api.e2b.dev/sandboxes "HTTP/1.1 201 Created"
+2025-06-03 12:27:34,188 - e2b.api - INFO - Response 201
+2025-06-03 12:27:34,558 - e2b.sandbox_sync.main - INFO - Request: POST https://49983-if70vhcyr980phgbjco1l-987535bc.e2b.dev/files
+2025-06-03 12:27:35,063 - e2b.sandbox_sync.main - INFO - Response: 200 https://49983-if70vhcyr980phgbjco1l-987535bc.e2b.dev/files
+2025-06-03 12:27:35,063 - httpx - INFO - HTTP Request: POST https://49983-if70vhcyr980phgbjco1l-987535bc.e2b.dev/files?path=.%2FAdvertising.csv&username=user "HTTP/1.1 200 OK"
+2025-06-03 12:27:41,426 - e2b.sandbox_sync.main - INFO - Request: POST https://49999-if70vhcyr980phgbjco1l-987535bc.e2b.dev/execute
+2025-06-03 12:27:42,625 - e2b.sandbox_sync.main - INFO - Response: 200 https://49999-if70vhcyr980phgbjco1l-987535bc.e2b.dev/execute
+2025-06-03 12:27:42,625 - httpx - INFO - HTTP Request: POST https://49999-if70vhcyr980phgbjco1l-987535bc.e2b.dev/execute "HTTP/1.1 200 OK"
+2025-06-03 12:27:44,198 - e2b.api - INFO - Request DELETE https://api.e2b.dev/sandboxes/if70vhcyr980phgbjco1l-987535bc
+2025-06-03 12:27:45,043 - httpx - INFO - HTTP Request: DELETE https://api.e2b.dev/sandboxes/if70vhcyr980phgbjco1l-987535bc "HTTP/1.1 204 No Content"
+2025-06-03 12:27:45,043 - e2b.api - INFO - Response 204
